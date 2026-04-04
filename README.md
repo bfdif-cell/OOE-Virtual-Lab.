@@ -20,7 +20,9 @@
   2. Boudfoi Tinhinane 
   3. Saidi Manel 
   4. Aboudjabel Bissene
-  -In the rest of the projects
+
+   -In the rest of the projects
+  
  1. Redoini Cicilia  
  2. Boudfoi Tinhinane
  3. mouhab Maya
